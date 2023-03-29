@@ -10,3 +10,6 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 5px; 
 }
+.shop-summery h4{
+    text-align: center;
+}
