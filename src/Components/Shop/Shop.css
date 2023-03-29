@@ -1,0 +1,12 @@
+.shop-body{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.shop-summery{
+    background-color: #FFE0B3;
+}
+.all-product{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px; 
+}
