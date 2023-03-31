@@ -4,6 +4,7 @@
 }
 .shop-summery{
     background-color: #FFE0B3;
+    margin-left: 0;
 }
 .all-product{
     display: grid;
