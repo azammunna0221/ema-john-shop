@@ -30,7 +30,7 @@ const Shop = () => {
                 // step 4: adding retrieved Product & Its quantity to SavedCart[],
                 savedCart.push(addedProduct);
             }
-            console.log(savedCart);
+           // console.log(savedCart);
         }
         // step 5: set data to state.
         setCart(savedCart);
